@@ -186,10 +186,6 @@ daily-scrapbook/
 
 ## 参考与致谢
 
-技能组织方式参考 [Ian Xiaohei Illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)，作者 [Ian](https://github.com/helloianneo)。借鉴其“风格 DNA、构图、提示词、检查清单”的结构，围绕照片手账重新编写规则。
-
-视觉研究参考了小红书创作者 [墨奶茶](https://www.xiaohongshu.com/user/profile/5fe41f980000000001000864) 的公开手帐式 plog。这个项目是独立整理的工作流，不是创作者官方项目；不会把参考作者的照片、人物或署名带入用户作品。
-
 本仓库只使用抽象白模作展示，不包含研究阶段的第三方作品图、个人实拍照片及其生成成品。详见 [NOTICE.md](NOTICE.md)。
 
 ## License
