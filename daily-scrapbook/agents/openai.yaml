@@ -1,0 +1,4 @@
+interface:
+  display_name: "手帐式 Plog"
+  short_description: "把几张生活照片和简短记录，整理成有主次、有批注、有纸感的中文手账成图"
+  default_prompt: "使用 $daily-scrapbook，把我提供的照片和大概内容整理成一页手帐式 plog，先解析照片，再直接生成。"
