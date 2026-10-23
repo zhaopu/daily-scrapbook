@@ -16,6 +16,6 @@ The published package does not contain that creator's photographs, family images
 
 ## Included previews
 
-The images in `assets/layouts/` and `daily-scrapbook/references/layout-overview.png` are original abstract wireframes. Their white rectangles and silhouettes are placeholders; they are not generated scrapbook results and do not contain real people or user photographs.
+The images in `assets/layouts/` and `daily-scrapbook/references/layout-overview.png` are original abstract wireframes. Their light-gray photo blocks and silhouettes are placeholders; they are not generated scrapbook results and do not contain real people or user photographs.
 
 The MIT license covers this repository's original files. It does not grant rights in user-provided photos, third-party material or outputs from external image systems.
